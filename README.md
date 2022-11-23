@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## GitHub code spaces not working with Firebase Flutter  Web app
+
+I would like to login into a codespace for my app (https://github.com/sachavieuxroy/firebasecodespaceflutterdemo) on gitHub codespaces using google chrome. Then using the vscode ide running in the browser, I would like to keep working on my app from anywhere, if I have access to an internet connection and a chrome web browser. 
+
 
 Note: GitHub codespaces seems to have some problems with running my application on Android that it does not have on a desktop computer.
 
