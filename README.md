@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Note: GitHub codespaces seems to have some problems with running my application on Android that it does not have on a desktop computer.
 
-A few resources to get you started if this is your first Flutter project:
+I used the line in the command prompt to run my app on Android :
+flutter run  -d web-server --web-hostname=0.0.0.0 --web-port=3000
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Here is a link to a video of me creating/using a github codespace for this application :] (https://go.sachavieuxroy.com/firebasecodespaceflutterdemo)
