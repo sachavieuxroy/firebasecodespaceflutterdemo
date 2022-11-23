@@ -1,5 +1,5 @@
 {
-  "image": "cirrusci/flutter:beta",
+  "image": "cirrusci/flutter:latest",
   "forwardPorts": [
     3000
   ],
